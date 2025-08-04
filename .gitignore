@@ -1,2 +1,3 @@
 venv/
 data/
+model/face_recognition_model.h5
